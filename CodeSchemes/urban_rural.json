@@ -4,39 +4,39 @@
     "Version"       :  "0.0.0.1",
     "Codes"        :  [         
       {
-        "CodeID"        : "value-27c106ce",
+        "CodeID"        : "code-27c106ce",
         "DisplayText"    : "rural [r]",
         "Shortcut"       : "r",	
         "NumericValue"   : 1,
         "VisibleInCoda"  : true
       },
       {
-        "CodeID"        : "value-2787929c",
+        "CodeID"        : "code-2787929c",
         "DisplayText"    : "urban [u]",	
         "Shortcut"       : "u",	
         "NumericValue"   : 2,
         "VisibleInCoda"  : true
       },
       {
-        "CodeID"        : "value-NA-39c20bea",
+        "CodeID"        : "code-NA-39c20bea",
         "DisplayText"    : "NA (missing)",	
         "NumericValue"   : -10,
         "VisibleInCoda"  : true
       },
       {
-        "CodeID"        : "value-NS-9ff0f833",
+        "CodeID"        : "code-NS-9ff0f833",
         "DisplayText"    : "NS (skip)",	
         "NumericValue"   : -20,
         "VisibleInCoda"  : false
       },
       {
-        "CodeID"        : "value-NC-e0fe865e",
+        "CodeID"        : "code-NC-e0fe865e",
         "DisplayText"    : "NC (not coded)",	
         "NumericValue"   : -30,
         "VisibleInCoda"  : true
       },
       {
-        "CodeID"        : "value-NR-ab121225",
+        "CodeID"        : "code-NR-ab121225",
         "DisplayText"    : "NR (not reviewed)",	
         "NumericValue"   : -40,
         "VisibleInCoda"  : false
