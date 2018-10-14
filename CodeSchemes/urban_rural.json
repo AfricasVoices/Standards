@@ -2,39 +2,41 @@
     "SchemeID"      :  "Scheme-a53e400f",
     "Name"          :  "Urban/Rural",
     "Version"       :  "0.0.0.1",
-    "Values"        :  [         
+    "Codes"        :  [         
       {
-        "ValueID"        : "value-27c106ce",
-        "DisplayText"    : "rural",	
+        "CodeID"        : "value-27c106ce",
+        "DisplayText"    : "rural [r]",
+        "Shortcut"       : "r",	
         "NumericValue"   : 1,
         "VisibleInCoda"  : true
       },
       {
-        "ValueID"        : "value-2787929c",
-        "DisplayText"    : "urban",	
+        "CodeID"        : "value-2787929c",
+        "DisplayText"    : "urban [u]",	
+        "Shortcut"       : "u",	
         "NumericValue"   : 2,
         "VisibleInCoda"  : true
       },
       {
-        "ValueID"        : "value-NA-39c20bea",
+        "CodeID"        : "value-NA-39c20bea",
         "DisplayText"    : "NA (missing)",	
         "NumericValue"   : -10,
         "VisibleInCoda"  : true
       },
       {
-        "ValueID"        : "value-NS-9ff0f833",
+        "CodeID"        : "value-NS-9ff0f833",
         "DisplayText"    : "NS (skip)",	
         "NumericValue"   : -20,
         "VisibleInCoda"  : false
       },
       {
-        "ValueID"        : "value-NC-e0fe865e",
+        "CodeID"        : "value-NC-e0fe865e",
         "DisplayText"    : "NC (not coded)",	
         "NumericValue"   : -30,
         "VisibleInCoda"  : true
       },
       {
-        "ValueID"        : "value-NR-ab121225",
+        "CodeID"        : "value-NR-ab121225",
         "DisplayText"    : "NR (not reviewed)",	
         "NumericValue"   : -40,
         "VisibleInCoda"  : false
