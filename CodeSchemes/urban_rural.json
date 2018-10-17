@@ -5,14 +5,14 @@
     "Codes"        :  [         
       {
         "CodeID"        : "code-27c106ce",
-        "DisplayText"    : "rural [r]",
+        "DisplayText"    : "rural",
         "Shortcut"       : "r",	
         "NumericValue"   : 1,
         "VisibleInCoda"  : true
       },
       {
         "CodeID"        : "code-2787929c",
-        "DisplayText"    : "urban [u]",	
+        "DisplayText"    : "urban",	
         "Shortcut"       : "u",	
         "NumericValue"   : 2,
         "VisibleInCoda"  : true
