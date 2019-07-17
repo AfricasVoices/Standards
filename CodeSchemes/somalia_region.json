@@ -1,7 +1,7 @@
 {
   "SchemeID": "Scheme-644e3296",
   "Name": "Somalia Region",
-  "Version": "0.0.0.1",
+  "Version": "0.0.0.2",
   "Codes": [
     {
       "CodeID": "code-8af5ec4f",
@@ -263,6 +263,15 @@
       "NumericValue": -100,
       "StringValue": "WS",
       "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-CE-016c1e22",
+      "CodeType": "Control",
+      "ControlCode": "CE",
+      "DisplayText": "CE (coding error)",
+      "NumericValue": -110,
+      "StringValue": "CE",
+      "VisibleInCoda": false
     }
   ]
 }
