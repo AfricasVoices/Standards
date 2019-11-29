@@ -1,7 +1,7 @@
 {
   "SchemeID": "Scheme-0fe57c6d",
   "Name": "In IDP Camp",
-  "Version": "0.0.0.3",
+  "Version": "0.0.0.4",
   "Codes": [
     {
       "CodeID": "code-dc43b68e",
@@ -142,6 +142,24 @@
       "DisplayText": "opt-in",
       "NumericValue": -100040,
       "StringValue": "opt_in",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-SC-a3a065bc",
+      "CodeType": "Meta",
+      "MetaCode": "similar_content",
+      "DisplayText": "similar content",
+      "NumericValue": -100050,
+      "StringValue": "similar_content",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-PI-83b90d32",
+      "CodeType": "Meta",
+      "MetaCode": "participation_incentive",
+      "DisplayText": "participation incentive",
+      "NumericValue": -100060,
+      "StringValue": "participation_incentive",
       "VisibleInCoda": true
     }
   ]
